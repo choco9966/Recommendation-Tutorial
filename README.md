@@ -15,7 +15,7 @@
   - [[04. Deep Neural Networks for YouTube Recommendations]](https://eda-ai-lab.tistory.com/530)
   - [[04. Training Deep AutoEncoders for Collaborative Filtering]](https://eda-ai-lab.tistory.com/531)
   - [[04. Wide & Deep Learning for Recommender Systems]](https://eda-ai-lab.tistory.com/532)
-  - [[04. Factorization Machine]](https://eda-ai-lab.tistory.com/533)
+  - [[04. Deep Factorization Machine]](https://eda-ai-lab.tistory.com/533)
 - [05. 추천시스템 실습하기]
   - [[05. goodbooks-10k Data Exploratory Analysis]](https://www.kaggle.com/chocozzz/01-goodbooks-10k-data-exploratory-analysis)
   - [[05. goodbooks-10k Baseline Model]](https://www.kaggle.com/chocozzz/02-goodbooks-10k-baseline-model)
