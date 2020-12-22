@@ -17,6 +17,10 @@
   - [[04. Wide & Deep Learning for Recommender Systems]](https://eda-ai-lab.tistory.com/532)
   - [[04. Factorization Machine]](https://eda-ai-lab.tistory.com/533)
 - [05. 추천시스템 실습하기]
+  - [[05. goodbooks-10k Data Exploratory Analysis]](https://www.kaggle.com/chocozzz/01-goodbooks-10k-data-exploratory-analysis)
+  - [[05. goodbooks-10k Baseline Model]](https://www.kaggle.com/chocozzz/02-goodbooks-10k-baseline-model)
+  - [[05. goodbooks-10k Collaborative Filtering Model]](https://www.kaggle.com/chocozzz/03-goodbooks-10k-collaborative-filtering-model)
+  - [[05. goodbooks-10k Contents Based Model]](https://www.kaggle.com/chocozzz/04-goodbooks-10k-contents-based-model)
 - [06. 추천시스템 대회 분석하기]
   - [06. 카카오 아레나 2차 대회]
   - [06. 카카오 아레나 3차 대회]
