@@ -12,10 +12,10 @@
   - [[03. SGD을 이용한 추천시스템]](https://eda-ai-lab.tistory.com/528)
   - [[03. ALS을 이용한 추천시스템]](https://eda-ai-lab.tistory.com/529)
 - [04. 딥러닝을 이용한 추천시스템]
-  - [[04. Deep Neural Networks for YouTube Recommendations]](https://eda-ai-lab.tistory.com/530)
-  - [[04. Training Deep AutoEncoders for Collaborative Filtering]](https://eda-ai-lab.tistory.com/531)
-  - [[04. Wide & Deep Learning for Recommender Systems]](https://eda-ai-lab.tistory.com/532)
-  - [[04. Deep Factorization Machine]](https://eda-ai-lab.tistory.com/533)
+  - [04. Deep Neural Networks for YouTube Recommendations]
+  - [04. Training Deep AutoEncoders for Collaborative Filtering]
+  - [04. Wide & Deep Learning for Recommender Systems]
+  - [04. Deep Factorization Machine]
 - [05. 추천시스템 실습하기]
   - [[05. goodbooks-10k Data Exploratory Analysis]](https://www.kaggle.com/chocozzz/01-goodbooks-10k-data-exploratory-analysis)
   - [[05. goodbooks-10k Baseline Model]](https://www.kaggle.com/chocozzz/02-goodbooks-10k-baseline-model)
